@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/kalino7/json/address.json",
+  "$id": "https://github.com/kalino7/json/blob/main/address.json",
   "type": "object",
   "properties": {
     "street": {
