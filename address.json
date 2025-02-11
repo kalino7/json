@@ -1,17 +1,16 @@
 {
-  "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "https://raw.githubusercontent.com/kalino7/json/refs/heads/main/address.json",
   "type": "object",
   "properties": {
+    "zipCode": {
+      "type": "number"
+    },
     "street": {
       "type": "string"
     },
     "city": {
       "type": "string"
-    },
-    "zipCode": {
-      "type": "string"
     }
   },
-  "required": ["street", "city", "zipCode"]
+  "required": ["zipCode","street", "city"]
 }
