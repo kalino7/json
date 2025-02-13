@@ -8,6 +8,5 @@
     "city": {
       "type": "string"
     }
-  },
-  "required": ["zipCode", "city"]
+  }
 }
