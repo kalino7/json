@@ -1,0 +1,12 @@
+{
+  "$id": "https://kalino7.github.io/json/a/locate.json",
+  "type": "object",
+  "properties": {
+    "zipCode": {
+      "type": "number"
+    },
+    "city": {
+      "type": "string"
+    }
+  }
+}
