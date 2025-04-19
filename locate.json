@@ -1,5 +1,5 @@
 {
-  "$id": "https://raw.githubusercontent.com/kalino7/json/refs/heads/main/locate.json",
+  "$id": "https://kalino7.github.io/json/locate.json",
   "type": "object",
   "properties": {
     "zipCode": {
